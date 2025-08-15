@@ -1,36 +1,87 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌸 Putri Wulandari - Personal Website
 
-## Getting Started
+![Website Preview](./public/preview.png)
 
-First, run the development server:
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)  
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)  
+[![License](https://img.shields.io/badge/License-Personal-green?style=flat)](#-license)
 
+---
+
+## 📖 Table of Contents
+- [About](#-about)
+- [Getting Started](#-getting-started)
+- [Tech Stack](#-tech-stack)
+- [Learn More](#-learn-more)
+- [License](#-license)
+
+---
+
+## 🌟 About
+
+**EN:** The website **[putriwulandr.com](https://putriwulandr.com)** contains the biography and portfolio of **Putri Wulandari**. Built using **Next.js (App Router)** for a fast, responsive, and modern web experience.  
+
+**DE:** Die Website **[putriwulandr.com](https://putriwulandr.com)** enthält die Biografie und das Portfolio von **Putri Wulandari**. Erstellt mit **Next.js (App Router)** für eine schnelle, reaktionsschnelle und moderne Web-Erfahrung.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone Repository
 ```bash
+git clone https://github.com/username/repo-name.git
+cd repo-name
+```
+
+### 2. Install Dependencies
+Using your preferred package manager:
+
+**npm**
+```bash
+npm install
 npm run dev
-# or
+```
+
+**yarn**
+```bash
+yarn install
 yarn dev
-# or
+```
+
+**pnpm**
+```bash
+pnpm install
 pnpm dev
-# or
+```
+
+**bun**
+```bash
+bun install
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The app will run at **http://localhost:3000** by default.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠 Tech Stack
+- **Framework:** [Next.js (App Router)](https://nextjs.org/)
+- **Styling:** Tailwind CSS
+- **Deployment:** [Vercel](https://vercel.com/)
+- **Language:** TypeScript
+- **Package Managers:** npm, yarn, pnpm, bun
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📚 Learn More
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js Documentation](https://nextjs.org/docs)  
+- [Learn Next.js Tutorial](https://nextjs.org/learn)  
+- [Deploy on Vercel](https://vercel.com/docs)  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📄 License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**EN:** This project is created for personal and portfolio purposes.  
+**DE:** Dieses Projekt wurde für persönliche Zwecke und als Portfolio erstellt.
