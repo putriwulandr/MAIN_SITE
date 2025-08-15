@@ -1,15 +1,31 @@
-# Putri Wulandari - Personal Website
+# 🌸 Putri Wulandari - Personal Website
 
 ![Website Preview](./public/preview.png)
 
-The website **[putriwulandr.com](https://putriwulandr.com)** contains the biography and portfolio of **Putri Wulandari**.  
-Built using **Next.js (App Router)** to deliver a fast, responsive, and modern web experience.
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)  
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)  
+[![License](https://img.shields.io/badge/License-Personal-green?style=flat)](#-license)
+
+---
+
+## 📖 Table of Contents
+- [About](#-about)
+- [Getting Started](#-getting-started)
+- [Tech Stack](#-tech-stack)
+- [Learn More](#-learn-more)
+- [License](#-license)
+
+---
+
+## 🌟 About
+
+**EN:** The website **[putriwulandr.com](https://putriwulandr.com)** contains the biography and portfolio of **Putri Wulandari**. Built using **Next.js (App Router)** for a fast, responsive, and modern web experience.  
+
+**DE:** Die Website **[putriwulandr.com](https://putriwulandr.com)** enthält die Biografie und das Portfolio von **Putri Wulandari**. Erstellt mit **Next.js (App Router)** für eine schnelle, reaktionsschnelle und moderne Web-Erfahrung.
 
 ---
 
 ## 🚀 Getting Started
-
-General steps to run this application locally.
 
 ### 1. Clone Repository
 ```bash
@@ -18,33 +34,42 @@ cd repo-name
 ```
 
 ### 2. Install Dependencies
-You can use one of the following package managers:
+Using your preferred package manager:
 
-#### **npm**
+**npm**
 ```bash
 npm install
 npm run dev
 ```
 
-#### **yarn**
+**yarn**
 ```bash
 yarn install
 yarn dev
 ```
 
-#### **pnpm**
+**pnpm**
 ```bash
 pnpm install
 pnpm dev
 ```
 
-#### **bun**
+**bun**
 ```bash
 bun install
 bun dev
 ```
 
 The app will run at **http://localhost:3000** by default.
+
+---
+
+## 🛠 Tech Stack
+- **Framework:** [Next.js (App Router)](https://nextjs.org/)
+- **Styling:** Tailwind CSS
+- **Deployment:** [Vercel](https://vercel.com/)
+- **Language:** TypeScript
+- **Package Managers:** npm, yarn, pnpm, bun
 
 ---
 
@@ -58,68 +83,5 @@ The app will run at **http://localhost:3000** by default.
 
 ## 📄 License
 
-This project is created for personal and portfolio purposes.
-
----
-
-# Putri Wulandari - Persönliche Webseite
-
-![Website Vorschau](./public/preview.png)
-
-Die Website **[putriwulandr.com](https://putriwulandr.com)** enthält die Biografie und das Portfolio von **Putri Wulandari**.  
-Erstellt mit **Next.js (App Router)** für eine schnelle, reaktionsschnelle und moderne Web-Erfahrung.
-
----
-
-## 🚀 Erste Schritte
-
-Allgemeine Schritte, um diese Anwendung lokal auszuführen.
-
-### 1. Repository klonen
-```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
-```
-
-### 2. Abhängigkeiten installieren
-Du kannst einen der folgenden Paketmanager verwenden:
-
-#### **npm**
-```bash
-npm install
-npm run dev
-```
-
-#### **yarn**
-```bash
-yarn install
-yarn dev
-```
-
-#### **pnpm**
-```bash
-pnpm install
-pnpm dev
-```
-
-#### **bun**
-```bash
-bun install
-bun dev
-```
-
-Die App läuft standardmäßig unter **http://localhost:3000**.
-
----
-
-## 📚 Mehr erfahren
-
-- [Next.js Dokumentation](https://nextjs.org/docs)  
-- [Next.js Lern-Tutorial](https://nextjs.org/learn)  
-- [Auf Vercel deployen](https://vercel.com/docs)  
-
----
-
-## 📄 Lizenz
-
-Dieses Projekt wurde für persönliche Zwecke und als Portfolio erstellt.
+**EN:** This project is created for personal and portfolio purposes.  
+**DE:** Dieses Projekt wurde für persönliche Zwecke und als Portfolio erstellt.
