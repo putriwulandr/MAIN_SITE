@@ -1,12 +1,13 @@
 {
-  "name": "main-site",
+  "name": "pages-router-template",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@vercel/speed-insights": "^2.0.0",
