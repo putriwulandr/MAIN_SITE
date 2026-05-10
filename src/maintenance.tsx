@@ -31,6 +31,19 @@ export default function MaintenancePage() {
           }}
         />
 
+        <img
+          src="/putix-icons.png"
+          // src="/putix-ui-logos.png"
+          alt="putix"
+          style={{
+            height: "50px",
+            width: "auto",
+            objectFit: "contain",
+            marginBottom: "1.5rem",
+            position: "relative",
+          }}
+        />
+
         <span
           style={{
             fontSize: "11px",
