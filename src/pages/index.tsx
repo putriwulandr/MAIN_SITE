@@ -1,10 +1,13 @@
 import Image from "next/image";
 import { SpeedInsights } from "@vercel/speed-insights/next"
+import Landing from "@/landing";
 
 export default function Home() {
   return (
     <>
       <SpeedInsights/>
+
+      {/* <Landing /> */}
       
       <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
         <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
@@ -15,6 +18,7 @@ export default function Home() {
             width={180}
             height={38}
             priority
+            style={{ width: "auto", height: "auto" }}
           />
           <div className="flex gap-4 items-center flex-col sm:flex-row">
             by PUTRI WULANDARI
